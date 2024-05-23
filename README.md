@@ -1,2 +1,2 @@
 todo-list
-w/ react
+utilizando react

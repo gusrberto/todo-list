@@ -1,2 +1,2 @@
 todo-list
-utilizando reactjs
+utilizando react
